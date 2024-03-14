@@ -15,9 +15,9 @@
     "commands": [
       {
         "command": "simple-react-code-generator.generate",
-        "title": "Simple React: generate code based on file name"
+        "title": "Simple React: Generate code based on file name"
       }
-    ]
+  ]
   },
   "scripts": {
     "vscode:prepublish": "pnpm run compile",

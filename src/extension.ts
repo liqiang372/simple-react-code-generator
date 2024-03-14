@@ -37,7 +37,7 @@ export interface ${componentName}Props {
 }
 
 export const ${componentName}: FC<${componentName}Props> = ({className}) => {
-  return <div> ${componentName} Component </div> ;
+  return <div className={className}> ${componentName} Component </div> ;
 };
 `;
 
