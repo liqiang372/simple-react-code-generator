@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "simple-react-code-generator.helloWorld",
-        "title": "Hello World"
+        "command": "simple-react-code-generator.generate",
+        "title": "Simple React: generate code based on file name"
       }
     ]
   },
